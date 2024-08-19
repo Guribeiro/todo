@@ -2,8 +2,6 @@
   <img src="./.github/cover.png" alt="Todo" />
 
   &#xa0;
-
-  <!-- <a href="https://todo.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">
@@ -21,7 +19,7 @@
  
 </p>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
